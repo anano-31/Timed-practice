@@ -1,6 +1,6 @@
 -- Session 01 — SQL Timed Practice
 -- Olist E-commerce Dataset (PostgreSQL)
--- 60 minutes, 20/100 exercises attempted
+-- 60 minutes, 20 exercises
 
 -- 1
 select distinct
